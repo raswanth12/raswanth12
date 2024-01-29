@@ -1,5 +1,4 @@
 <h1 align="center">I'm Raswanth CB</h1>
-<h3 align="center">Man with neuron & (RL) brain to process more data</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
