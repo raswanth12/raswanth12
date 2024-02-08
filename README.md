@@ -2,7 +2,7 @@
 
 
 <p align="left">
-
+<h3 align="center">  "Unraveling data mysteries with Python magic 🐍✨. Crafting AI wonders and decoding neural puzzles. Turning raw data into actionable insights. Let's crunch numbers, build dreams, and shape a data-powered future. 🚀 #DataMaestro #AIEnthusiast" </h3>
 <h3 align="left">Connect with me:</h3>
 <a href="https://twitter.com/https://twitter.com/raswanth_29" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="https://twitter.com/raswanth_29" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/raswanth-cb-0250451b0/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/raswanth-cb-0250451b0/" height="30" width="40" /></a>
