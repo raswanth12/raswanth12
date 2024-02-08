@@ -1,5 +1,5 @@
 <h1 align="center">I'm Raswanth CB</h1>
-<h3 "Unraveling data mysteries with Python magic 🐍✨. Crafting AI wonders and decoding neural puzzles. Turning raw data into actionable insights. Let's crunch numbers, build dreams, and shape a future powered by data. 🚀 #DataMaestro #AIEnthusiast" </h3>
+
 
 <p align="left">
 
