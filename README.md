@@ -1,7 +1,8 @@
-<h1 align="center">I'm Raswanth CB</h1>
+![225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9](https://github.com/raswanth12/raswanth12/assets/83648180/dd5b0ec4-5930-40d6-8212-821bb87b26bf)<h1 align="center">I'm Raswanth CB</h1>
 
 
-![Uploading 225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif…]()
+
+![Uploading 225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif…](https://github.com/raswanth12/raswanth12/assets/83648180/157e1d0f-fbf7-488c-ba93-4673d257de36)
 
 
 <p align="left">
