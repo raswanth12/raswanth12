@@ -1,6 +1,7 @@
 <h1 align="center">I'm Raswanth CB</h1>
 
-![Uploading code-coding.gif…]()
+
+![68747470733a2f2f696d616765732e73717561726573706163652d63646e2e636f6d2f636f6e74656e742f76312f3563373032626334363530313966393537336563346332622f313633303039343336383734352d4742384e5659455656484232554b583859334655](https://github.com/raswanth12/raswanth12/assets/83648180/17dad2f5-03ea-4867-b310-3b5fbf0714c6)
 
 <p align="left">
 <h3 align="center">  "Unraveling data mysteries with Python magic 🐍✨. Crafting AI wonders and decoding neural puzzles. Turning raw data into actionable insights. Let's crunch numbers, build dreams, and shape a data-powered future. 🚀 #DataMaestro #AIEnthusiast" </h3>
