@@ -1,6 +1,5 @@
 <h1 align="center">I'm Raswanth CB</h1>
 
-![212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f](https://github.com/raswanth12/raswanth12/assets/83648180/e69551b1-4a66-4381-a1f9-8694b998c1ea)
 
 ![225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9](https://github.com/raswanth12/raswanth12/assets/83648180/dd5b0ec4-5930-40d6-8212-821bb87b26bf)
 
