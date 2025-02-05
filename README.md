@@ -18,3 +18,6 @@
 
 ![212284136-03988914-d899-44b4-b1d9-4eeccf656e44](https://github.com/raswanth12/raswanth12/assets/83648180/daa8ab75-e514-4552-85e8-4bbaf4364cc9)
 
+<img src="https://raw.githubusercontent.com/raswanth12/raswanth12/output/snake.svg" alt="Snake animation" />
+
+###
